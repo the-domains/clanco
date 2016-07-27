@@ -1,0 +1,14 @@
+layout_spectrum: 0.6883804614190012
+typography_spectrum: 0.5779967606067657
+color:
+  brandStrength: 0.3070975460577756
+  lightness: 0.8678566019516438
+  saturation: 0.3050994616933167
+  rhythmicContrast: 0.9074009459000081
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: clanco
